@@ -1,4 +1,4 @@
-# Programming-Paradigms---Imperative-vs-Declarative
+# Programming Paradigms: Imperative vs Declarative
 
 Imperative programming is a paradigm of computer programming where the program describes steps that change the state of the computer. Unlike declarative programming, which describes "what" a program should accomplish, imperative programming explicitly tells the computer "how" to accomplish it.
 
